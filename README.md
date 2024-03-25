@@ -5,6 +5,7 @@
 ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=c%2b%2b)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 ![MySql](https://img.shields.io/badge/Sql-grey?style=for-the-badge&logo=mysql)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-grey?style=for-the-badge&logo=ubuntu)
 
 
 ### Contact Information
