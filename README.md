@@ -1,4 +1,4 @@
-### My name is Sheykina Daria. I'm a student and beginner QA Engineer.
+### Sheykina Daria.
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=postman)
